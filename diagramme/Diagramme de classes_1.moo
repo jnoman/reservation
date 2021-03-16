@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{C3161F48-362B-4A6E-BF9A-8513FCD1C87D}" Label="" LastModificationDate="1615197319" Name="Diagramme de classes_1" Objects="25" Symbols="6" Target="Java" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{C3161F48-362B-4A6E-BF9A-8513FCD1C87D}" Label="" LastModificationDate="1615821554" Name="Diagramme de classes_1" Objects="28" Symbols="6" Target="Java" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -12,7 +12,7 @@
 <a:Code>Diagramme_de_classes_1</a:Code>
 <a:CreationDate>1614847066</a:CreationDate>
 <a:Creator>jamal eddine noman</a:Creator>
-<a:ModificationDate>1615191004</a:ModificationDate>
+<a:ModificationDate>1615821544</a:ModificationDate>
 <a:Modifier>jamal eddine noman</a:Modifier>
 <a:PackageOptionsText>[FolderOptions]
 
@@ -2103,7 +2103,7 @@ NameToCode=No</a:ModelOptionsText>
 <a:Code>DiagrammeClasses_1</a:Code>
 <a:CreationDate>1614847066</a:CreationDate>
 <a:Creator>jamal eddine noman</a:Creator>
-<a:ModificationDate>1615190580</a:ModificationDate>
+<a:ModificationDate>1615821544</a:ModificationDate>
 <a:Modifier>jamal eddine noman</a:Modifier>
 <a:DisplayPreferences>[DisplayPreferences]
 
@@ -2518,8 +2518,8 @@ Shadow=0</a:DisplayPreferences>
 <o:AssociationSymbol Id="o6">
 <a:CreationDate>1614848108</a:CreationDate>
 <a:ModificationDate>1615197103</a:ModificationDate>
-<a:Rect>((-10594,1580), (-1439,10957))</a:Rect>
-<a:ListOfPoints>((-10594,9783),(-1476,9783),(-1476,1580))</a:ListOfPoints>
+<a:Rect>((-10660,1580), (-1476,10960))</a:Rect>
+<a:ListOfPoints>((-10660,9786),(-1476,9786),(-1476,1580))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>3592</a:ArrowStyle>
 <a:LineColor>4194432</a:LineColor>
@@ -2541,8 +2541,8 @@ MULA 0 Arial,8,N</a:FontList>
 <a:ModificationDate>1615197098</a:ModificationDate>
 <a:SourceTextOffset>(-1012, 1090)</a:SourceTextOffset>
 <a:DestinationTextOffset>(1252, 634)</a:DestinationTextOffset>
-<a:Rect>((2203,1626), (12632,11172))</a:Rect>
-<a:ListOfPoints>((12632,9495),(2203,9495),(2203,1626))</a:ListOfPoints>
+<a:Rect>((2203,1626), (12504,11025))</a:Rect>
+<a:ListOfPoints>((12504,9348),(2203,9348),(2203,1626))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>3592</a:ArrowStyle>
 <a:LineColor>4194432</a:LineColor>
@@ -2586,7 +2586,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:CreationDate>1614847074</a:CreationDate>
 <a:ModificationDate>1614848096</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-20343,4919), (-9865,14583))</a:Rect>
+<a:Rect>((-20266,4432), (-9942,15070))</a:Rect>
 <a:LineColor>128</a:LineColor>
 <a:FillColor>8637161</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2609,7 +2609,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:CreationDate>1614847074</a:CreationDate>
 <a:ModificationDate>1614848099</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((11846,7482), (21320,13250))</a:Rect>
+<a:Rect>((11692,6995), (21474,13737))</a:Rect>
 <a:LineColor>128</a:LineColor>
 <a:FillColor>8637161</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2626,29 +2626,6 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <c:Object>
 <o:Class Ref="o15"/>
-</c:Object>
-</o:ClassSymbol>
-<o:ClassSymbol Id="o16">
-<a:CreationDate>1615190580</a:CreationDate>
-<a:ModificationDate>1615190832</a:ModificationDate>
-<a:IconMode>-1</a:IconMode>
-<a:Rect>((-20507,-2586), (-12191,2208))</a:Rect>
-<a:LineColor>128</a:LineColor>
-<a:FillColor>8637161</a:FillColor>
-<a:ShadowColor>12632256</a:ShadowColor>
-<a:FontList>STRN 0 Arial,8,N
-DISPNAME 0 Arial,8,N
-CNTR 0 Arial,8,N
-Attributes 0 Arial,8,N
-ClassPrimaryAttribute 0 Arial,8,U
-Operations 0 Arial,8,N
-InnerClassifiers 0 Arial,8,N
-LABL 0 Arial,8,N</a:FontList>
-<a:BrushStyle>6</a:BrushStyle>
-<a:GradientFillMode>65</a:GradientFillMode>
-<a:GradientEndColor>16777215</a:GradientEndColor>
-<c:Object>
-<o:Class Ref="o17"/>
 </c:Object>
 </o:ClassSymbol>
 </c:Symbols>
@@ -2668,7 +2645,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Modifier>jamal eddine noman</a:Modifier>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
-<o:Attribute Id="o18">
+<o:Attribute Id="o16">
 <a:ObjectID>7A0980CB-9EDA-428E-99F9-E35BCF9B22FC</a:ObjectID>
 <a:Name>etat</a:Name>
 <a:Code>etat</a:Code>
@@ -2687,11 +2664,11 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>Utilisateur</a:Code>
 <a:CreationDate>1614847074</a:CreationDate>
 <a:Creator>jamal eddine noman</a:Creator>
-<a:ModificationDate>1615197084</a:ModificationDate>
+<a:ModificationDate>1615821554</a:ModificationDate>
 <a:Modifier>jamal eddine noman</a:Modifier>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
-<o:Attribute Id="o19">
+<o:Attribute Id="o17">
 <a:ObjectID>EDFA0D6D-8EC8-4368-883B-17C7CDF79EA0</a:ObjectID>
 <a:Name>id</a:Name>
 <a:Code>id</a:Code>
@@ -2702,7 +2679,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:DataType>Long</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o20">
+<o:Attribute Id="o18">
 <a:ObjectID>D8E05F68-7774-4619-A179-301122F74059</a:ObjectID>
 <a:Name>nomComplet</a:Name>
 <a:Code>nomComplet</a:Code>
@@ -2713,7 +2690,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o21">
+<o:Attribute Id="o19">
 <a:ObjectID>635AB883-B817-46A0-A94E-8839648A1CE6</a:ObjectID>
 <a:Name>email</a:Name>
 <a:Code>email</a:Code>
@@ -2724,7 +2701,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o22">
+<o:Attribute Id="o20">
 <a:ObjectID>5EEBA64A-6601-4224-B6A3-7801B356A10F</a:ObjectID>
 <a:Name>password</a:Name>
 <a:Code>password</a:Code>
@@ -2735,7 +2712,18 @@ LABL 0 Arial,8,N</a:FontList>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o23">
+<o:Attribute Id="o21">
+<a:ObjectID>B43A0BEA-B01C-41D0-B17F-220270200617</a:ObjectID>
+<a:Name>salt</a:Name>
+<a:Code>salt</a:Code>
+<a:CreationDate>1615487870</a:CreationDate>
+<a:Creator>jamal eddine noman</a:Creator>
+<a:ModificationDate>1615487904</a:ModificationDate>
+<a:Modifier>jamal eddine noman</a:Modifier>
+<a:DataType>String</a:DataType>
+<a:Attribute.Visibility>-</a:Attribute.Visibility>
+</o:Attribute>
+<o:Attribute Id="o22">
 <a:ObjectID>1E6DB8E1-BBA4-489A-9CD0-22F8E01B490E</a:ObjectID>
 <a:Name>role</a:Name>
 <a:Code>role</a:Code>
@@ -2746,24 +2734,24 @@ LABL 0 Arial,8,N</a:FontList>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o24">
-<a:ObjectID>511C2CC6-6B94-4285-B68C-92CD0F4A8ED3</a:ObjectID>
-<a:Name>valid</a:Name>
-<a:Code>valid</a:Code>
-<a:CreationDate>1614852870</a:CreationDate>
-<a:Creator>jamal eddine noman</a:Creator>
-<a:ModificationDate>1614852884</a:ModificationDate>
-<a:Modifier>jamal eddine noman</a:Modifier>
-<a:DataType>boolean</a:DataType>
-<a:Attribute.Visibility>-</a:Attribute.Visibility>
-</o:Attribute>
-<o:Attribute Id="o25">
+<o:Attribute Id="o23">
 <a:ObjectID>DFE6CEC6-041B-4D45-9AAF-5F389D383C09</a:ObjectID>
 <a:Name>active</a:Name>
 <a:Code>active</a:Code>
 <a:CreationDate>1615190476</a:CreationDate>
 <a:Creator>jamal eddine noman</a:Creator>
 <a:ModificationDate>1615190573</a:ModificationDate>
+<a:Modifier>jamal eddine noman</a:Modifier>
+<a:DataType>int</a:DataType>
+<a:Attribute.Visibility>-</a:Attribute.Visibility>
+</o:Attribute>
+<o:Attribute Id="o24">
+<a:ObjectID>2B6F8CC5-9CF6-45D5-9375-586D69D2F4A2</a:ObjectID>
+<a:Name>nbrReservation</a:Name>
+<a:Code>nbrReservation</a:Code>
+<a:CreationDate>1615487870</a:CreationDate>
+<a:Creator>jamal eddine noman</a:Creator>
+<a:ModificationDate>1615487904</a:ModificationDate>
 <a:Modifier>jamal eddine noman</a:Modifier>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
@@ -2776,11 +2764,11 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>Reserver</a:Code>
 <a:CreationDate>1614847074</a:CreationDate>
 <a:Creator>jamal eddine noman</a:Creator>
-<a:ModificationDate>1615197084</a:ModificationDate>
+<a:ModificationDate>1615723561</a:ModificationDate>
 <a:Modifier>jamal eddine noman</a:Modifier>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
-<o:Attribute Id="o26">
+<o:Attribute Id="o25">
 <a:ObjectID>6138C7B4-F638-4080-8EB3-353FE807E674</a:ObjectID>
 <a:Name>id</a:Name>
 <a:Code>id</a:Code>
@@ -2791,7 +2779,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:DataType>Long</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o27">
+<o:Attribute Id="o26">
 <a:ObjectID>3297B83D-235F-4D0C-A17A-A1B3D1E377C0</a:ObjectID>
 <a:Name>dateReserver</a:Name>
 <a:Code>dateReserver</a:Code>
@@ -2802,7 +2790,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:DataType>Date</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o28">
+<o:Attribute Id="o27">
 <a:ObjectID>2D31485D-9188-46B4-A5AA-ADBFFDBAACE3</a:ObjectID>
 <a:Name>nombrePlace</a:Name>
 <a:Code>nombrePlace</a:Code>
@@ -2813,36 +2801,13 @@ LABL 0 Arial,8,N</a:FontList>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-</c:Attributes>
-</o:Class>
-<o:Class Id="o17">
-<a:ObjectID>C1F40B0C-D7B8-4554-9253-65152978E7FE</a:ObjectID>
-<a:Name>ListEmail</a:Name>
-<a:Code>ListEmail</a:Code>
-<a:CreationDate>1615190580</a:CreationDate>
+<o:Attribute Id="o28">
+<a:ObjectID>6B37E1C3-281B-428C-A522-D08500E75509</a:ObjectID>
+<a:Name>duree</a:Name>
+<a:Code>duree</a:Code>
+<a:CreationDate>1615723548</a:CreationDate>
 <a:Creator>jamal eddine noman</a:Creator>
-<a:ModificationDate>1615190636</a:ModificationDate>
-<a:Modifier>jamal eddine noman</a:Modifier>
-<a:UseParentNamespace>0</a:UseParentNamespace>
-<c:Attributes>
-<o:Attribute Id="o29">
-<a:ObjectID>62E05B4F-5BF8-488B-9974-CBDA1290502F</a:ObjectID>
-<a:Name>email</a:Name>
-<a:Code>email</a:Code>
-<a:CreationDate>1615190583</a:CreationDate>
-<a:Creator>jamal eddine noman</a:Creator>
-<a:ModificationDate>1615190626</a:ModificationDate>
-<a:Modifier>jamal eddine noman</a:Modifier>
-<a:DataType>String</a:DataType>
-<a:Attribute.Visibility>-</a:Attribute.Visibility>
-</o:Attribute>
-<o:Attribute Id="o30">
-<a:ObjectID>C66E00B9-4E04-423F-B376-E1BAFD85466E</a:ObjectID>
-<a:Name>reference</a:Name>
-<a:Code>reference</a:Code>
-<a:CreationDate>1615190583</a:CreationDate>
-<a:Creator>jamal eddine noman</a:Creator>
-<a:ModificationDate>1615190626</a:ModificationDate>
+<a:ModificationDate>1615723561</a:ModificationDate>
 <a:Modifier>jamal eddine noman</a:Modifier>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
@@ -2899,7 +2864,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:Association>
 </c:Associations>
 <c:TargetModels>
-<o:TargetModel Id="o31">
+<o:TargetModel Id="o29">
 <a:ObjectID>F231D2FF-CE2A-4E0F-AF07-D583A1C8518A</a:ObjectID>
 <a:Name>Java</a:Name>
 <a:Code>Java</a:Code>
@@ -2914,7 +2879,7 @@ LABL 0 Arial,8,N</a:FontList>
 <o:Shortcut Ref="o3"/>
 </c:SessionShortcuts>
 </o:TargetModel>
-<o:TargetModel Id="o32">
+<o:TargetModel Id="o30">
 <a:ObjectID>D0090944-F3AB-4B51-A0D1-FBEA7CE65DFD</a:ObjectID>
 <a:Name>WSDL for Java</a:Name>
 <a:Code>WSDLJava</a:Code>
