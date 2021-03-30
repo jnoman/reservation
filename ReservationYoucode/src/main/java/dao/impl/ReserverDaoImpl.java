@@ -62,12 +62,8 @@ public class ReserverDaoImpl implements ReserverDao {
 
 	@Override
 	public List<Reserver> getReserverProchainUser(Utilisateur user) {
-		return currentSession().createQuery("from Reserver where id not in (select R.id.reserver.id from Reservation R "
+		return currentSession().createQuery("from Reserver where nombrePlace > 0 and dateReserver > current_date and id not in (select R.id.reserver.id from Reservation R "
 				+ "where R.id.user=:user) order by dateReserver",Reserver.class).setParameter("user", user).list();
-		
-//		return currentSession().createQuery("select R from Reserver R left join Reservation Re on R=Re.id.reserver "
-//				+ "where  Re.id.user is null and R.nombrePlace > 0 and R.dateReserver >= current_date "
-//				+ "order by R.dateReserver",Reserver.class).list();
 	}
 
 }
